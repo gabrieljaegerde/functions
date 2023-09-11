@@ -4,7 +4,7 @@ public class FunctionsAssignment {
 
     // TODO: Implement a method that accepts two integers as parameters and returns their sum
     public int sum(int a, int b) {
-        return 0; // Replace with your implementation
+        return a+b; // Replace with your implementation
     }
 
     // TODO: Implement a method that accepts a string and returns its reverse
