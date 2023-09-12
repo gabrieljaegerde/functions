@@ -56,7 +56,7 @@ class FunctionsAssignmentTests {
 
     @Test
     void testCountCharacterOccurrences() {
-        assertEquals(3, functionsAssignment.countCharacterOccurrences("hello hello hello", 'l'));
+        assertEquals(7, functionsAssignment.countCharacterOccurrences("hello hello helllo", 'l'));
     }
 
     @Test

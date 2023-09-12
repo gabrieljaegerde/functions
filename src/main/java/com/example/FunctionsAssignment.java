@@ -5,7 +5,7 @@ public class FunctionsAssignment {
     // TODO: Implement a method that accepts two integers as parameters and returns
     // their sum
     public int sum(int a, int b) {
-        return a+b; // Replace with your implementation
+        return 0; // Replace with your implementation
     }
 
     // TODO: Implement a method that accepts a string and returns its reverse
@@ -15,8 +15,7 @@ public class FunctionsAssignment {
 
     // TODO: Implement a method to return a greeting message of the format: "Hello, John!"
     public String greeting(String name) {
-        return "Hello, " + name + "!";
-        //return ""; // Replace with your implementation
+        return ""; // Replace with your implementation
     }
 
     // TODO: Implement a method that accepts an array of integers and returns the
